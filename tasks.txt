@@ -1,0 +1,7 @@
+To Do
+
+1) Find 2 libraries each that we'd consider using
+2) Find APIs that we each think we might use 
+3) Read the docs on Google Places/Geolocation/Maps
+4) Start reading on postgreSQL
+5) Brainstorm ideas related to usage, names, functionality, other potential technologies (i.e. graphQL)
