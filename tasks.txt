@@ -5,3 +5,5 @@ To Do
 3) Read the docs on Google Places/Geolocation/Maps
 4) Start reading on postgreSQL
 5) Brainstorm ideas related to usage, names, functionality, other potential technologies (i.e. graphQL)
+
+just want to make sure i cloned this right... i don't have ian to help me :(
